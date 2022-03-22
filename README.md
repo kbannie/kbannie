@@ -1,7 +1,11 @@
-### Hi there 👋
+ ### Hi there 👋
 
-### • ✨ I’m currently learning Django
-### • 💻 I’m going to college these days.
+ #### • 🌱 I’m currently learning Django. 
+ #### • ✨ I’m working on univ.CE student.
+ #### • 💻 I hope to become a backend developer.
+
+##
+### Skiils ✍
 
 <!--
 **kbannie/kbannie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
