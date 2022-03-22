@@ -1,7 +1,7 @@
  ### Hi there 👋
 
  #### • 🌱 I’m currently learning Django. 
- #### • ✨ I’m working on univ.CE student.
+ #### • ✨ I’m working on univ. CE student.
  #### • 💻 I hope to become a backend developer.
 
 ##
