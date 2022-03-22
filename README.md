@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ### • ✨ I’m currently learning Django
+### • 💻 I’m going to college these days.
+
 <!--
 **kbannie/kbannie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
