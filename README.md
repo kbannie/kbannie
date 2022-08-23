@@ -1,14 +1,14 @@
 
  
 <div align=center>
-## Hi there 👋
+ 
+ ## Hi there 👋
  
  #### 🌱 I’m currently learning Node.js. 
  #### ✨ I’m working on univ. CE student.
  #### 💻 I hope to become a backend developer.
  
- 
- #### Contact on me
+
 <a href="https://velog.io/@sunk2205">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"
