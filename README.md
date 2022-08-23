@@ -14,7 +14,7 @@
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="https://instagram.com/kbannie">
+</a> <a href="https://instagram.com/kb._.dev">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
