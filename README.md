@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
-
-![header](https://capsule-render.vercel.app/api?color=gradient){
+![header](https://capsule-render.vercel.app/api?type=waving;color=gradient){
         "idx": 4,
         "color": {
             "0" : "00C9FF",
@@ -9,6 +7,7 @@
         "text": "f7f5f5",
         "textBg": "282829"
     },
+
 
  <div align=center>
  ### Hi there 👋
