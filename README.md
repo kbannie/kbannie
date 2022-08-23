@@ -1,13 +1,13 @@
 
  
-<div align=center>
+
  
- ## Hi there 👋
- 
+ ### Hi there 👋
  #### 🌱 I’m currently learning Node.js. 
  #### ✨ I’m working on univ. CE student.
  #### 💻 I hope to become a backend developer.
  
+ <div align=center>
 
 <a href="https://velog.io/@sunk2205">
     <img 
