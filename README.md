@@ -17,7 +17,7 @@
  
  
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kbannie=anuraghazra&theme=solarized-light&show_icons=true)
+![Kbannie's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbannie&theme=solarized-light&show_icons=true)
 
 <!--
 **kbannie/kbannie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
