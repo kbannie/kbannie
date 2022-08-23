@@ -1,6 +1,7 @@
- ## Hi there 👋
+
  
 <div align=center>
+  ## Hi there 👋
  
  #### • 🌱 I’m currently learning Node.js. 
  #### • ✨ I’m working on univ. CE student.
