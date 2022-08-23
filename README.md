@@ -1,19 +1,12 @@
- ### Hi there 👋
-
+ ## Hi there 👋
+ 
+<div align=center>
  #### • 🌱 I’m currently learning Node.js. 
  #### • ✨ I’m working on univ. CE student.
  #### • 💻 I hope to become a backend developer.
  
  
  #### Contact on me
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white (https://www.instagram.com/kb._.dev/)
-
-<a href="https://www.instagram.com/kb._.dev/">
-    <img 
-        ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white>
-</a>
-
-
 <a href="https://velog.io/@sunk2205">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"
@@ -35,11 +28,11 @@
 
 ### Tools🔨
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 	![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 	![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
- 
+
  
  
 ![Kbannie's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbannie&theme=solarized-light&show_icons=true)
-
+</div>
 <!--
 **kbannie/kbannie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
