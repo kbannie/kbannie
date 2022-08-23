@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Kabeen%20Kim!&fontColor=lightbrown&height=400)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Kabeen%20Kim!&fontColor=lightbrown&height=300)
 
 
  <div align=center>
