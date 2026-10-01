@@ -1,71 +1,71 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Kabeen%20Kim&fontColor=ffffff&height=260&animation=twinkling)
+<img src="./assets/profile-header.svg" width="100%" alt="Kabeen Kim — Document AI, GraphRAG, and Multimodal Learning" />
 
-<div align=center>
+<p align="center">
+  <a href="https://kbannie.github.io/"><b>Website</b></a> &nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?user=_GZ1nzIAAAAJ&amp;hl=en">Google Scholar</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kabeen-kim-6806b8221/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://kbannie.github.io/KabeenKim_CV.pdf">CV</a> &nbsp;·&nbsp;
+  <a href="mailto:sunk2205@duksung.ac.kr">Email</a>
+</p>
 
-### Hi there 👋
-#### 🤖 AI Agent / RAG Engineer (Streamlit • LangChain • Pinecone)
-#### 🏆 Samsung AI Competition (Document Understanding) — 3rd / 80 teams
-#### 🔎 I build evaluation-driven LLM applications and document understanding pipelines.
+I'm **Kabeen**, an undergraduate studying **Computer Engineering and Information Statistics** at Duksung Women's University. I work on document understanding, retrieval-augmented generation, and multimodal learning.
 
-<br/>
+I care about how models fail, which evidence they retrieve, and how to design experiments that explain their behavior.
 
-<a href="https://www.linkedin.com/in/kabeen-kim-6806b8221/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" style="height:auto; margin:0 10px;"/>
-</a>
-<a href="https://github.com/kbannie">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" style="height:auto; margin:0 10px;"/>
-</a>
-<a href="mailto:sunk2205@duksung.ac.kr">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" style="height:auto; margin:0 10px;"/>
-</a>
+- **Recent focus:** multi-hop GraphRAG over knowledge graphs, including path-preserving search and evidence reranking at **ETRI**.
+- **Highlight:** **3rd place**, 2025 Samsung AI Challenge — Visually-Rich Document Understanding.
 
-<br/><br/>
+## Selected research
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>CoDU</h3>
+<p><sub>DOCUMENT UNDERSTANDING · KDBC 2025</sub></p>
+<p>Multi-stage document parsing with layout detection, OCR, formula recognition, and reading-order reconstruction.</p>
+<p><a href="https://github.com/kbannie/CoDU"><b>Code &amp; models →</b></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>ConFuse</h3>
+<p><sub>LLM + TABULAR LEARNING · ICTC 2026, ACCEPTED</sub></p>
+<p>Context-aware fusion of GBDT and fine-tuned LLM predictions for sleep prediction from lifelog data.</p>
+<p><a href="https://github.com/kbannie/ConFuse"><b>Code &amp; experiments →</b></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>UDAPose</h3>
+<p><sub>COMPUTER VISION · CVPR 2026</sub></p>
+<p>Unsupervised domain adaptation for human pose estimation in low-light images.</p>
+<p><a href="https://arxiv.org/abs/2604.10485"><b>Paper →</b></a> &nbsp; <a href="https://github.com/Vision-and-Multimodal-Intelligence-Lab/UDAPose">Official code →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>SPTC</h3>
+<p><sub>LLM REASONING · KCC 2025</sub></p>
+<p>A single-pass tree-based prompting scheme for efficient reasoning with small language models.</p>
+<p><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318736"><b>Paper →</b></a></p>
+</td>
+</tr>
+</table>
 
-## Featured Work ✨
+**Applied AI:** [DS Chatbot](https://github.com/kbannie/RAG_DS_Chatbot) — a RAG assistant for university regulations, built with LangChain, Pinecone, and Streamlit.
 
-### 🔹 RAG-based AI Agent (Samsung Product Recommendation)
-- Streamlit-based web RAG chatbot (LangChain + Pinecone, text-embedding-3-large)  
-- Added reranking (Cohere) and improved Precision **0.40 → 0.70** on 100 QA pairs  
-- Guardrails via few-shot prompting + query preprocessing (dictionary/normalization)
+## Experience
 
-### 🔹 Document Understanding (Samsung AI Competition — 3rd/80)
-- Fine-tuned DocLayout-YOLO + reading-order reconstruction  
-- **W&B-tracked** sweeps for category-wise NMS IoU thresholds → public score **+0.051 (0.371 → 0.422)**  
-- Layout detection improved by **+0.475 F1** on multi-column documents
+| Organization | Role | Focus |
+| :--- | :--- | :--- |
+| **ETRI** | Research Intern | Knowledge graphs & multi-hop GraphRAG |
+| **Boston Consulting Group** | Research Analyst Intern | Industrial data analysis & LLM workflows |
+| **DMKD Lab, Duksung Women's University** | Undergraduate Researcher | LLM reasoning & document understanding |
+| **University of Mississippi** | Undergraduate Researcher | Low-light human pose estimation |
 
-### 🔹 SPTC Prompting (Single-Pass Tree Chain-of-Thought)
-- Implemented single-pass generation → self-evaluation → selection prompting  
-- **~1.5× faster inference** than ToT under an SLM setup (CommonsenseQA/OpenBookQA)
+<sub>Full timeline and publications: <a href="https://kbannie.github.io/">academic homepage</a>.</sub>
 
-<br/>
+## Toolkit
 
----
-
-## Skills 🧩
-
-### Languages ✍
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools 🔨
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0E9F6E?style=for-the-badge&logo=pinecone&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20EC2%2FS3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br/><br/>
-
-
-</div>
+| Area | Technologies |
+| :--- | :--- |
+| **Languages & data** | Python · SQL · C++ · Pandas · NumPy |
+| **Machine learning** | PyTorch · Hugging Face Transformers · LoRA / QLoRA · LightGBM · XGBoost |
+| **Retrieval & documents** | LangChain · Pinecone · DocLayout-YOLO · PaddleOCR · Pix2Tex |
+| **Experiments & infrastructure** | Weights & Biases · Docker · AWS EC2 / S3 · Linux · Git |

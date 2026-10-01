@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Kabeen Kim</title>
+  <desc id="desc">Document AI, GraphRAG, and Multimodal Learning. Research and engineering.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#93b5cc" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="16" fill="#101c2c"/>
+  <rect width="1200" height="260" rx="16" fill="url(#grid)"/>
+  <rect x="0" y="40" width="4" height="180" rx="2" fill="#6ee7cf"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="52" y="55" font-size="12" font-weight="600" letter-spacing="3" fill="#8eacc4">RESEARCH / ENGINEERING</text>
+    <text x="48" y="125" font-size="58" font-weight="700" letter-spacing="-2" fill="#f3f7fb">Kabeen Kim</text>
+    <text x="52" y="167" font-size="20" fill="#c3d4e4">Document AI · GraphRAG · Multimodal Learning</text>
+    <text x="52" y="217" font-size="13" letter-spacing="0.5" fill="#7fa1b9">Problem framing → experiments → evaluation</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M830 70L956 50L1060 115L1131 73M830 70L930 135L1060 115L1100 209M930 135L982 214L1100 209M956 50L930 135L838 204M1060 115L982 214" stroke="#426177" stroke-width="1.5"/>
+    <path d="M830 70L930 135L1060 115L1100 209" stroke="#6ee7cf" stroke-opacity="0.75" stroke-width="2"/>
+    <rect x="750" y="84" width="74" height="100" rx="9" fill="#192c40" stroke="#6a8da5"/>
+    <rect x="763" y="99" width="31" height="7" rx="2" fill="#6ee7cf" stroke="none"/>
+    <path d="M763 122H809M763 131H800M763 140H809" stroke="#8aadc5" stroke-width="2"/>
+    <rect x="763" y="151" width="20" height="19" rx="2" stroke="#8aadc5"/>
+    <path d="M792 153H809M792 160H809M792 167H803" stroke="#8aadc5" stroke-width="2"/>
+    <path d="M824 135H918" stroke="#6ee7cf" stroke-width="2"/>
+  </g>
+  <g stroke="#101c2c" stroke-width="5">
+    <circle cx="830" cy="70" r="7" fill="#7fa1b9"/>
+    <circle cx="956" cy="50" r="6" fill="#648097"/>
+    <circle cx="930" cy="135" r="13" fill="#6ee7cf"/>
+    <circle cx="1060" cy="115" r="10" fill="#6ee7cf"/>
+    <circle cx="1131" cy="73" r="6" fill="#648097"/>
+    <circle cx="838" cy="204" r="6" fill="#648097"/>
+    <circle cx="982" cy="214" r="8" fill="#7fa1b9"/>
+    <circle cx="1100" cy="209" r="8" fill="#6ee7cf"/>
+  </g>
+</svg>
